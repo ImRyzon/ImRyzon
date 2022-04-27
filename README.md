@@ -1,4 +1,4 @@
-Languages: Java (although it is a weird language), JavaScript, Python, C#, CSS, HTML
+Languages: Java (although it is a terrible language), JavaScript, Python, C#, CSS, HTML
 
 Currently learning C++.
 
