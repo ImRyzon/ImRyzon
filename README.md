@@ -1,6 +1,4 @@
-Languages: Java (although it is a terrible language), JavaScript, Python, C#, CSS, HTML
-
-Currently learning C++.
+Languages: Java (although it is a terrible language), JavaScript, Python, C++, C#, CSS, HTML
 
 I code a lot of useless projects, you can find them all here.
 
