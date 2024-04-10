@@ -4,4 +4,4 @@ Languages: C++, C, C#, Java, Python, JavaScript, HTML, CSS, SQL
 
 Professional Stack Overflow user.
 
-Personal website: https://imryzon.pythonanywhere.com/
+Personal website (hopefully will get personal domain soon): https://imryzon.pythonanywhere.com/
