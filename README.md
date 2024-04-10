@@ -1,4 +1,4 @@
-Passionate and curious student interested in various areas in the Computer Science discipline.
+Passionate student interested in various areas of Computer Science.
 
 Languages: C++, C, C#, Java, Python, JavaScript, HTML, CSS, SQL
 
