@@ -1,9 +1,3 @@
-I am a passionate and ambitious student interested in Computer Science and Engineering.
+I am a passionate and ambitious student interested in Computer Science, Engineering, and Entrepreneurship. 
 
-I am currently actively exploring and expanding my knowledge in various areas within Artificial Intelligence such as Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
-
-Languages: C++, C, C#, Java, Python, JavaScript, HTML, CSS, SQL
-
-Certified Professional Stack Overflow User.
-
-Old Personal Website: https://imryzon.pythonanywhere.com/
+Currently, I am actively exploring and expanding my knowledge in various fields within Artificial Intelligence such as Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision.
